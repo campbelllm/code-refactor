@@ -21,5 +21,7 @@ NOTES
 
 Link to repository
 
+(https://github.com/campbelllm/code-refactor)
+
 ![imageofproject]
-(./assets/images/project1.png)
+(develop/assets/images/project1.png)
