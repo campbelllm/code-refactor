@@ -23,5 +23,4 @@ Link to repository
 
 (https://github.com/campbelllm/code-refactor)
 
-![imageofproject]
-(develop/assets/images/project1.png)
+![imageofproject](./develop/assets/images/project1.png)
