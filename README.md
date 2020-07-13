@@ -21,7 +21,7 @@ NOTES
 
 Link to repository
 
-(https://github.com/campbelllm/code-refactor)
+(https://github.com/campbelllm/code-refactor/tree/master/Develop)
 
 ![Final1](https://github.com/campbelllm/code-refactor/blob/master/Develop/assets/images/project1.png)
 ![Final2](https://github.com/campbelllm/code-refactor/blob/master/Develop/assets/images/project2.png)
