@@ -18,3 +18,8 @@ NOTES
 - Change colors #ffffff to #fff
 - Restructured css to be in order of HTML
 - Overall Reduced css code from 200 lines to 131
+
+Link to repository
+
+![imageofproject]
+(./assets/images/project1.png)
